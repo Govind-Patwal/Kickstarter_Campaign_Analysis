@@ -45,28 +45,27 @@ On the part 2 of the assignment 'Analysis based on Goals'. I missed reading the 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+```
 This Analysis made us discover two important factors that can make or break the success of her campaign.
 1) The best month to launch a campaign is May, this is follwed by June.
 2) The worst month to launch a campaign is December. Jan, Mar, Apr and Nov are not good months either.
-
+```
 - What can you conclude about the Outcomes based on Goals?
-
+```
 We can conclude that
 1) The Goal with the most success rate is Less than 1,000: Success rate 76%, followed closely by the 1,000-5,000 goal, with a success rate of 73%
 2) As the Goal is incresed the success rate usually decreases, however, surprisingly the goal of 35,000 - 45,000 has a success rate of 67%
-
+```
 - What are some limitations of this dataset?
-
+```
 Some limitations are
 1) The data is old. Louise came to me in January 2020 for help. The data that I have is from 2014-2016. The more recent data I have, the better is the analysis thus the better the result.
 2) It does not have data for unexpected situations like the COVID pandemic. In a unexceptional situation like this, I would not suggest Louise to start a campaign in June/July this year.
-
+```
 - What are some other possible tables and/or graphs that we could create?
-
+```
 Some othe things that we could have done
-
 1) In the analysis of 'Theater Outcomes based on Launch Date', we are using the count of successful, failed and canceled campaigns. We could use percentage insted. 
 2) Since Louise is interested in Plays, we could futher create a chart that show 'Theater plays based on Launch Date'
 3) We could do an analysis based on the length of campaigns
-
+```
