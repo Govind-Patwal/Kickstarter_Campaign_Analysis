@@ -86,9 +86,9 @@ Learning - Instructions are to be read extra carefully, a small oversight can le
 ## Results
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
->This Analysis made us discover two important factors that can make or break the success of her campaign.
->1) The best month to launch a campaign is May, follwed by June.
->2) The worst month to launch a campaign is December. Jan, Mar, Apr and Nov are not good months either.
+This Analysis made us discover two important factors that can make or break the success of her campaign.
+1) The best month to launch a campaign is May, follwed by June.
+2) The worst month to launch a campaign is December. Jan, Mar, Apr and Nov are not good months either.
 
 
 ### What can you conclude about the Outcomes based on Goals?
