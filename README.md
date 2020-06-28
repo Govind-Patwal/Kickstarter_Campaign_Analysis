@@ -34,6 +34,7 @@ This Analysis made us discover the following
 
 ### Analysis of Outcomes Based on Goals
 This Analysis made us discover the following
+
 ![Outcomes_based_on_Launch_Date](./resources/Outcomes_vs_Goals.png)
 
 
