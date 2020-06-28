@@ -11,13 +11,13 @@ The purpose of this analysis is help Louise kickstart her production. I will do 
 ## Analysis and Challenges
 
 ### Past Analysis 
-The analysis that I shared with her earlier showed that the category **Theatre** was the most frequent campaign in Kickstarters (almost 2 times as frequent as the 2nd most frequent item **Music**). 
+The analysis that I shared with her earlier showed that the category **Theatre** was the most frequent campaign in Kickstarters (almost 2 times as frequent as the 2nd most frequent category **Music**). 
 
-We also discovered that within the category **Theater**, the most popular subcategory was **Plays** (almost 9 times more popular than the 2 other subcategories **Muscial and Spaces**). 
+We also discovered that within the category **Theater**, the most popular subcategory was **Plays** (almost 9 times more popular than the 2 other subcategories **Muscial** and **Spaces**). 
 
-Furthermore, descriptive stastics of Successful and Failed U.S. kickstarters revaled that the mean of each distribution was around the 3rd quartile, so the data followed similar distributions in each subset. 
+Furthermore, descriptive stastics of *Successful and Failed U.S. kickstarters* revaled that the mean of each distribution was around the 3rd quartile, so the data followed similar distributions in each subset. 
 
-Based on her interest in researching musicals in Great Britain for a future project, I created a **Box and Whiskers Plot** for her. It showed us that the mean of the campaign goal is approx. £4,000. This is outside of the range of outliers for the pledged amounts, so Louise should probably try to get her play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged. ***So £2,000 might be a better campaign goal to consider***.
+Based on her interest in researching musicals in Great Britain for a future project, I created a **Box and Whiskers Plot** for her. It showed us that the mean of the campaign goal is approx. £4,000. This is outside of the range of outliers for the pledged amounts, so Louise should probably try to get her play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged. ***So £2,000 might be a better campaign goal to consider*** for her future Great Britain campaigns.
 
 ### New Analysis (for Challange 1)
 I then decided to give her further insights by digging deeper and performing an analysis based on two important factors
@@ -86,25 +86,27 @@ Learning - Instructions are to be read extra carefully, a small oversight can le
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-> This Analysis made us discover two important factors that can make or break the success of her campaign.
->1) The best month to launch a campaign is May, this is follwed by June.
->2) The worst month to launch a campaign is December. Jan, Mar, Apr and Nov are not good months either.
-
+```This Analysis made us discover two important factors that can make or break the success of her campaign.
+1) The best month to launch a campaign is May, follwed by June.
+2) The worst month to launch a campaign is December. Jan, Mar, Apr and Nov are not good months either.
+```
 
 - What can you conclude about the Outcomes based on Goals?
 
->We can conclude that
->1) The funding Goal of **Less than 1000** has the highest success rate at 76%, followed closely by the **1,000-5,000** funding goal, with a success rate at 73%.
->2) Generally, as the Goal amount is incresed the success rate decreases, however, surprisingly the goal of **35,000 - 45,000** has a success rate of 67%
-
+```We can conclude that
+1) The funding Goal of **Less than 1000** has the highest success rate at 76%, followed closely by the **1,000-5,000** funding goal, with a success rate at 73%.
+2) Generally, as the Goal amount is incresed the success rate decreases, however, surprisingly the goal of **35,000 - 45,000** has a success rate of 67%
+```
 - What are some limitations of this dataset?
->Some limitations are
->1) The data is old. Louise came to me in January 2020 for help. The data that I have is from 2014-2016. The more recent data I have, the better is the analysis thus the better the suggestion.
->2) It does not have data for unexpected situations like the COVID pandemic. In a unexceptional situation like this, I would not suggest Louise to start a campaign in June/July this year.
-
+```Some limitations are
+1) The data is old. Louise came to me in June 2020 for help. The data that I have is from 2014-2016. The more recent the data, the more relevant is the analysis.
+2) It does not have data for unexpected situations like the COVID pandemic. In a unexceptional situation like this, I would not suggest Louise to start a campaign in June/July this year.
+```
 - What are some other possible tables and/or graphs that we could create?
->Some othe things that we could have done
->1) In the analysis of **Theater Outcomes based on Launch Date**, we used the count of *successful*, *failed* and *canceled* campaigns. We could use percentage insted - which would give us results showing the odds of succeding if starting a campaign in a particular month. 
->2) Since Louise is interested in Plays, we could create a chart that show **Theater plays based on Launch Date**
->3) We could do an analysis based on the length of campaigns
->4) We could use other charts like Bar charts, Box Plots, or Pie charts to look at the data from different angles.
+```
+Some othe things that we could have done
+1) In the analysis of **Theater Outcomes based on Launch Date**, we used the count of *successful*, *failed* and *canceled* campaigns. We could use percentage insted - which would give us results showing the odds of succeding if starting a campaign in a particular month. 
+2) Since Louise is interested in Plays, we could create a chart that show **Theater plays based on Launch Date**
+3) We could do an analysis based on the length of campaigns.
+4) We could use other charts like Bar charts, Box Plots, or Pie charts to look at the data from different angles.
+```
