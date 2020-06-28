@@ -67,5 +67,5 @@ Some othe things that we could have done
 
 1) In the analysis of 'Theater Outcomes based on Launch Date', we are using the count of successful, failed and canceled campaigns. We could use percentage insted. 
 2) Since Louise is interested in Plays, we could futher create a chart that show 'Theater plays based on Launch Date'
-3) Length the campaign was active
+3) We could do an analysis based on the length of campaigns
 
