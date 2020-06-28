@@ -92,19 +92,18 @@ This Analysis made us discover two important factors that can make or break the 
 
 
 ### What can you conclude about the Outcomes based on Goals?
-
->We can conclude that
->1) The funding Goal of **Less than 1000** has the highest success rate at 76%, followed closely by the **1,000-5,000** funding goal, with a success rate at 73%.
->2) Generally, as the Goal amount is incresed the success rate decreases, however, surprisingly the goal of **35,000 - 45,000** has a success rate of 67%
+We can conclude that
+1) The funding Goal of **Less than 1000** has the highest success rate at 76%, followed closely by the **1,000-5,000** funding goal, with a success rate at 73%.
+2) Generally, as the Goal amount is incresed the success rate decreases, however, surprisingly the goal of **35,000 - 45,000** has a success rate of 67%
 
 ### What are some limitations of this dataset?
->Some limitations are
->1) The data is old. Louise came to me in June 2020 for help. The data that I have is from 2014-2016. The more recent the data, the more relevant is the analysis.
->2) It does not have data for unexpected situations like the COVID pandemic. In a unexceptional situation like this, I would not suggest Louise to start a campaign in June/July this year.
+Some limitations are
+1) The data is old. Louise came to me in June 2020 for help. The data that I have is from 2014-2016. The more recent the data, the more relevant is the analysis.
+2) It does not have data for unexpected situations like the COVID pandemic. In a unexceptional situation like this, I would not suggest Louise to start a campaign in June/July this year.
 
 ### What are some other possible tables and/or graphs that we could create?
->Some othe things that we could have done
->1) In the analysis of **Theater Outcomes based on Launch Date**, we used the count of *successful*, *failed* and *canceled* campaigns. We could use percentage insted - which would give us results showing the odds of succeding if starting a campaign in a particular month. 
->2) Since Louise is interested in Plays, we could create a chart that show **Theater plays based on Launch Date**
->3) We could do an analysis based on the length of campaigns.
->4) We could use other charts like Bar charts, Box Plots, or Pie charts to look at the data from different angles.
+Some othe things that we could have done
+1) In the analysis of **Theater Outcomes based on Launch Date**, we used the count of *successful*, *failed* and *canceled* campaigns. We could use percentage insted - which would give us results showing the odds of succeding if starting a campaign in a particular month. 
+2) Since Louise is interested in Plays, we could create a chart that show **Theater plays based on Launch Date**
+3) We could do an analysis based on the length of campaigns.
+4) We could use other charts like Bar charts, Box Plots, or Pie charts to look at the data from different angles.
